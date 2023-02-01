@@ -268,8 +268,7 @@ align-items: center;
 letter-spacing: 0.04em;
 background-color: var(--accent-color);
 color: var(--btn-hover-color);
-transition: color var(--transition), background-color var(--transition); 
-; 
+transition: background-color var(--transition); 
 
 }
 
